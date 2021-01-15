@@ -1,0 +1,16 @@
+Serial No,gender,temperature,cough,tiredness,covid-19
+1,female,104,dry,severe,positive
+2,female,101,dry,severe,negative
+3,female,98,wet,severe,negative
+4,female,105,dry,slight,negative
+5,female,100,no,slight,positive
+6,male,103,dry,severe,positive
+7,male,96,no,slight,negative
+8,male,99,wet,slight,negative
+9,male,98.5,wet,no,positive
+10,female,100.5,no,slight,positive
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,, ,,,
