@@ -30,7 +30,7 @@ Serial No,Name,Gender,Temperature,Cough,Tiredness,Difficulty_breathing,Loss_of_t
 29,Sid,male,101,dry,slight,no,yes,yes,positive
 30,Tin,male,102,dry,slight,no,no,yes,negative
 31,Fillip,male,98,wet,severe,no,no,no,negative
-32,Bin,male,99.5,no,severe,yes,no,no,positive
+32,Bin,male,99.5,no,severe,yes,no,no,negative
 33,Yoyo,male,104,dry,severe,yes,yes,no,positive
 34,Milon,male,100,wet,severe,yes,no,no,negative
 35,Mili,female,101,dry,slight,no,yes,yes,positive
